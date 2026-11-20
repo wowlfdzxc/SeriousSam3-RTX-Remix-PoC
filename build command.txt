@@ -1,0 +1,1 @@
+g++ -shared -O2 d3d9_proxy_sm2.cpp exports.def -o d3d9.dll -luuid -Wl,--enable-stdcall-fixup -static-libgcc -static-libstdc++

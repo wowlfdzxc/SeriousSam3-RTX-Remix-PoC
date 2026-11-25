@@ -1,8 +1,13 @@
 Serious Sam 3: BFE + NVIDIA RTX Remix (Proof of Concept)
+
 Status: Research / Partial Reverse-Engineering (PoC)
+
 Engine: Serious Engine 3.5 (Direct3D 9Ex / IDirect3DDevice9Ex)
+
 Objective: Compatibility Mod for Path Tracing via NVIDIA RTX Remix Bridge
+
 Author: wowlfdzxc
+
 Project Origins: The initial algorithmic approach and Shader Model 2.0 bypass concept were developed with assistance from Google AI Overview, serving as the foundational starting point for further reverse-engineering.
 
 📌 Overview
